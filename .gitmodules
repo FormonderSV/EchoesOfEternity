@@ -4,3 +4,9 @@
 [submodule "Plugins/OpenAI"]
 	path = Plugins/OpenAI
 	url = https://github.com/life-exe/UnrealOpenAIPlugin
+[submodule "Plugins/LogicDriver"]
+	path = Plugins/LogicDriver
+	url = https://github.com/Recursoft/LogicDriver
+[submodule "Plugins/LogicDriver-Dialogue"]
+	path = Plugins/LogicDriver-Dialogue
+	url = https://github.com/Recursoft/LogicDriver-DialoguePlugin
